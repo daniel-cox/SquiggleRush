@@ -7,7 +7,11 @@ The game features smooth, eye-catching animations powered by GSAP, a minimalist 
 Features:
 
 One-Tap Jump: Simple controls that allow you to focus on timing and reflexes.
+
 Dynamic Obstacles: Moving obstacles with increasing speed and frequency as you progress.
+
 Stylized Visuals: Clean and colorful design with fluid animations for an engaging visual experience.
+
 Endless Gameplay: Survive as long as you can to earn the highest score.
+
 Can you master the rush and set a new high score? Test your skills and reflexes in Squiggle Rush!
